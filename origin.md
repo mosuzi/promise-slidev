@@ -600,7 +600,7 @@ const isObject = isType('object')
 const isFunction = isType('function')
 ```
 
-因此最终的 promise.js 文件内容为：
+最终的 promise.js 文件内容为：
 
 ```js
 // 使用 Object.freeze 避免对象被篡改

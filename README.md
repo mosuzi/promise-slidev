@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 一步一步手写 Promise Slidev
 
 To start the slide show:
 
@@ -9,3 +9,5 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+原文：[一步一步手写 Promise](https://mosuzi.com/docs/tech/implement-promise-step-by-step/)
